@@ -1,0 +1,19 @@
+#+TITLE: DavorKey TODO
+#+AUTHOR: Davor Babić
+#+EMAIL: davor@davor.se
+
+This file contains a bunch of planned improvements to the DavorKey
+keyboard layout.
+
+* TODO Create a Visual Guide Showing the Keybindings
+  It would be helpful for new and potential users to be able to see
+  what the keyboard layout looks like before "buying in" to the
+  concept.
+
+* TODO Write a README file
+
+* TODO Add support for a german u with two dots
+  Bind it to the =u= key.
+
+* TODO Add support for the Euro key
+  Either bind it to =e=, or to the 'default' location.
